@@ -1,0 +1,8 @@
+{
+  "engines": {
+    "pnpm": "~9.12.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2"
+  }
+}
